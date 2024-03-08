@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Fri Nov  3 23:13:01 2023
+
+Nov 03 23:13:01 *	Connecting to irc.lainchan.org (107.161.19.243:6697)
+Nov 03 23:13:02 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 03 23:13:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 03 23:13:02 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+Nov 03 23:13:02 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Nov 03 23:13:02 *	* Subject: /CN=lainchan.org
+Nov 03 23:13:02 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+Nov 03 23:13:02 *	* Certification info:
+Nov 03 23:13:02 *	  Subject:
+Nov 03 23:13:02 *	    CN=lainchan.org
+Nov 03 23:13:02 *	  Issuer:
+Nov 03 23:13:02 *	    C=US
+Nov 03 23:13:02 *	    O=Let's Encrypt
+Nov 03 23:13:02 *	    CN=R3
+Nov 03 23:13:02 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Nov 03 23:13:02 *	  Sign algorithm sha256WithRSAEncryption
+Nov 03 23:13:02 *	  Valid since Sep 14 15:52:21 2023 GM to Dec 13 15:52:20 2023 GM
+Nov 03 23:13:02 *	* Cipher info:
+Nov 03 23:13:02 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Nov 03 23:13:02 *	Connected. Now logging in.

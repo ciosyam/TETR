@@ -1,0 +1,21 @@
+T 1699027991 19*	Now talking on 22#lainchan
+T 1699027991 22*	Topic for 22#lainchan is: Welcome to #lainchan. Voice is no longer required. Read the rules via "/quote rules". -- The "No Petting N33R" rule is still in effect. -- Donations: https://pomf2.lain.la/f/5xr6oi74.mp4
+T 1699027991 22*	Topic for 22#lainchan set by 26[7666]![7666]@lain.la (24Sun Jun 11 23:43:53 2023)
+T 1699027997 18<kringleshire18>	.lainstream
+T 1699028002 18<kringleshire18>	.stream
+T 1699028002 -18drastikbot/22#lainchan-	04Lainstream: Nothing is streaming right now. Learn how you can stream at: https://lainchan.org/stream.html 
+T 1699028015 24*	drastikbot has quit (The TLS connection was non-properly terminated.)
+T 1699028025 18<silhouette18>	you need to .streamset iirc
+T 1699028040 23*	drastikbot (drastik@drastik.org23) has joined
+T 1699028040 22*	26ChanServ gives voice to 18drastikbot
+T 1699028054 18<silhouette18>	.streamset kashire is a nigger
+T 1699028055 -18drastikbot/22#lainchan-	04Lainstream RTMP: Stream information updated!
+T 1699028062 18<silhouette18>	.stream
+T 1699028063 -18drastikbot/22#lainchan-	04Lainstream RTMP: 11kashire is a nigger by 02silhouette | Viewers: 0 | Watch at: https://lainchan.org/stream.html | RTMP: rtmp://lainchan.org/show/stream
+T 1699028070 18<bartholin18>	silhouette: STREAM IT
+T 1699028072 18<kringleshire18>	input output error hmm
+T 1699028087 18<whittacre18>	kringleshire: what are you using?
+T 1699028094 18<kringleshire18>	ffmpeg
+T 1699028102 18<silhouette18>	bartholin: kashire is trying something otherwise i woulda done my top 100 rap videos
+T 1699028103 18<kringleshire18>	>ffmpeg -re -i filename -c copy -f flv rtmp://lainchan.org/show/stream?key=KEYGOESHERE
+T 1699028121 FiSHLiM plugin unloaded
