@@ -1,0 +1,27 @@
+[global]
+    monitor = 0
+    follow = keyboard
+    width = 370
+    height = 350
+    offset = 0x19
+    padding = 2
+    horizontal_padding = 2
+    transparency = 25
+    font = IBMPlexMono 12
+    format = "<b>%s</b>\n%b"
+
+[urgency_low]
+    background = "#000000"
+    foreground = "#ff0cd2"
+    timeout = 3
+
+[urgency_normal]
+    foreground = "#ff0cd2"
+    background = "#000000"
+    timeout = 5
+
+[urgency_critical]
+    background = "#1cc24d"
+    foreground = "#ebdbb2"
+    frame_color = "#fabd2f"
+    timeout = 10
