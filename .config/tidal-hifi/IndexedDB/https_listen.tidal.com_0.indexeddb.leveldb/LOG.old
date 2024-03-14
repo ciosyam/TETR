@@ -1,6 +1,0 @@
-2023/10/18-20:56:47.489 287c Creating DB /home/cio/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb since it was missing.
-2023/10/18-20:56:47.519 287c Reusing MANIFEST /home/cio/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/18-20:56:48.258 2889 Level-0 table #5: started
-2023/10/18-20:56:48.266 2889 Level-0 table #5: 3405 bytes OK
-2023/10/18-20:56:48.280 2889 Delete type=0 #3
-2023/10/18-20:56:48.281 287d Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

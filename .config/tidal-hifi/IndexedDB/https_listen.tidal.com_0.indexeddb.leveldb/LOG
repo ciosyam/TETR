@@ -1,7 +1,0 @@
-2024/03/07-20:35:22.446 3d3b Reusing MANIFEST /home/cio/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/07-20:35:22.446 3d3b Recovering log #4
-2024/03/07-20:35:22.451 3d3b Reusing old log /home/cio/.config/tidal-hifi/IndexedDB/https_listen.tidal.com_0.indexeddb.leveldb/000004.log 
-2024/03/07-20:35:24.743 3d49 Level-0 table #8: started
-2024/03/07-20:35:25.097 3d49 Level-0 table #8: 15723 bytes OK
-2024/03/07-20:35:25.596 3d49 Delete type=0 #4
-2024/03/07-20:35:25.596 3d48 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
