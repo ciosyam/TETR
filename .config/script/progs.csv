@@ -59,9 +59,11 @@ G,https://github.com/LukeSmithxyz/dwmblocks.git,"serves as the modular status ba
 G,https://github.com/lukesmithxyz/dmenu.git,"runs commands and provides a UI for selection."
 G,https://github.com/ciosyam/st.git,"is my custom build of suckless's terminal emulator."
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
+
 A,thorium-browser-bin,"my browser"
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,socat,"is a utility which establishes two byte streams and transfers data between them."
 ,obsidian,"my note taking app"
 ,github-cli,"github-cli"
 ,moreutils,"is a collection of useful unix tools."
+,wiki-tui,"look up wikipedia right in the terminal"
