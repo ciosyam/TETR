@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/cio/Downloads/bitwig-studio-5.1.3.deb" added="2024-02-23T09:17:13.379646Z" modified="2024-02-23T09:17:13.379695Z" visited="2024-02-23T09:17:13.379649Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-23T09:17:13.379685Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/bitwig-studio-3.3.deb" added="2024-02-23T09:20:38.094950Z" modified="2024-02-23T09:20:38.094971Z" visited="2024-02-23T09:20:38.094952Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-23T09:20:38.094960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/167565.rar" added="2024-02-23T09:33:36.856304Z" modified="2024-02-23T09:33:36.856325Z" visited="2024-02-23T09:33:36.856306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-23T09:33:36.856314Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/sync/background.png" added="2024-02-24T07:54:07.868907Z" modified="2024-02-24T07:54:07.868939Z" visited="2024-02-24T07:54:07.868910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-24T07:54:07.868923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/ubuntu-22.04.4-desktop-amd64.iso" added="2024-02-24T08:36:32.367920Z" modified="2024-02-27T05:39:20.010228Z" visited="2024-02-24T08:36:32.367923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-24T08:36:32.367929Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2024-02-27T04:37:20.799695Z" count="1"/>
+          <bookmark:application name="balena-etcher.bin" exec="&apos;balena-etcher.bin %u&apos;" modified="2024-02-27T05:39:20.010217Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/gparted-live-1.5.0-6-i686.iso" added="2024-02-24T08:39:17.438748Z" modified="2024-02-24T08:39:17.438759Z" visited="2024-02-24T08:39:17.438749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-24T08:39:17.438753Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/xubuntu-23.10-desktop-amd64.iso.torrent" added="2024-02-27T02:24:37.654947Z" modified="2024-02-27T02:24:37.654978Z" visited="2024-02-27T02:24:37.654951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-27T02:24:37.654963Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/sync/background-arch.png" added="2024-02-27T04:18:25.108225Z" modified="2024-02-27T04:18:25.108231Z" visited="2024-02-27T04:18:25.108226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-27T04:18:25.108228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/sync/background-arch.jpeg" added="2024-02-27T04:18:39.643561Z" modified="2024-02-27T04:18:39.643596Z" visited="2024-02-27T04:18:39.643565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-27T04:18:39.643580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/balenaEtcher-1.18.11-x64.AppImage" added="2024-02-27T04:31:44.809318Z" modified="2024-03-09T18:18:48.687992Z" visited="2024-02-27T04:31:44.809320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2024-02-27T04:31:44.809325Z" count="1"/>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-09T18:18:48.687982Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/xubuntu-23.10-desktop-amd64.iso" added="2024-02-27T04:35:48.617487Z" modified="2024-02-27T04:35:48.617492Z" visited="2024-02-27T04:35:48.617488Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="balena-etcher.bin" exec="&apos;balena-etcher.bin %u&apos;" modified="2024-02-27T04:35:48.617489Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/FLARE-1909-LiN.rar" added="2024-02-27T23:28:58.666901Z" modified="2024-02-27T23:28:58.666922Z" visited="2024-02-27T23:28:58.666904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2024-02-27T23:28:58.666912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/Bitwig%20Studio%205.0.4.flatpak" added="2024-02-28T00:24:03.020902Z" modified="2024-02-28T00:24:03.020914Z" visited="2024-02-28T00:24:03.020905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.flatpak"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2024-02-28T00:24:03.020908Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/FLARE-1897-LIN.rar" added="2024-02-28T01:30:59.905804Z" modified="2024-02-28T01:30:59.905831Z" visited="2024-02-28T01:30:59.905808Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2024-02-28T01:30:59.905819Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/FLARE-189a7-LIN.rar" added="2024-02-28T01:33:20.392434Z" modified="2024-02-28T01:33:20.392464Z" visited="2024-02-28T01:33:20.392438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2024-02-28T01:33:20.392448Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/sync/stems.mp3" added="2024-02-28T04:11:15.469394Z" modified="2024-02-28T04:11:15.469408Z" visited="2024-02-28T04:11:15.469395Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-28T04:11:15.469405Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/Brave%20Passwords.csv" added="2024-03-07T13:13:58.290476Z" modified="2024-03-08T03:41:16.799355Z" visited="2024-03-07T13:13:58.290478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-03-07T13:13:58.290485Z" count="1"/>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-08T03:41:16.799348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/bookmarks_3_7_24.html" added="2024-03-07T13:17:10.339452Z" modified="2024-03-08T03:43:01.427876Z" visited="2024-03-07T13:17:10.339453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-03-07T13:17:10.339456Z" count="1"/>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-08T03:43:01.427846Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/dotfiles" added="2024-03-08T06:28:17.019215Z" modified="2024-03-08T06:28:17.019235Z" visited="2024-03-08T06:28:17.019217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2024-03-08T06:28:17.019224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/rough%20mix.mp3" added="2024-03-09T03:31:10.761553Z" modified="2024-03-16T15:35:30.909743Z" visited="2024-03-09T03:31:10.761556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-16T15:35:30.909735Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/Otakudesu.io_SnF--26_Mkv1080p.mkv" added="2024-03-09T15:17:17.444765Z" modified="2024-03-09T15:17:17.444790Z" visited="2024-03-09T15:17:17.444767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-09T15:17:17.444778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/nixos-gnome-23.11.5195.2be119add7b3-x86_64-linux.iso" added="2024-03-09T17:24:50.228670Z" modified="2024-03-09T18:21:35.450840Z" visited="2024-03-09T17:24:50.228672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-09T17:24:50.228677Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-03-09T18:13:58.775021Z" count="2"/>
+          <bookmark:application name="balena-etcher.bin" exec="&apos;balena-etcher.bin %u&apos;" modified="2024-03-09T18:21:35.450829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/nixos-gnome-23.11.5195.2be119add7b3-x86_64-linux%20(1).iso" added="2024-03-09T18:15:40.311570Z" modified="2024-03-09T18:15:40.311605Z" visited="2024-03-09T18:15:40.311575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-09T18:15:40.311589Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/nixos-plasma5-23.11.5195.2be119add7b3-x86_64-linux.iso" added="2024-03-09T18:22:33.792929Z" modified="2024-03-09T18:37:51.070172Z" visited="2024-03-09T18:22:33.792933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-09T18:22:33.792944Z" count="1"/>
+          <bookmark:application name="balena-etcher.bin" exec="&apos;balena-etcher.bin %u&apos;" modified="2024-03-09T18:37:51.070166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/usbimager_1.0.10_wo_uf-x86_64-linux-x11.zip" added="2024-03-09T18:39:14.527126Z" modified="2024-03-09T18:39:14.527148Z" visited="2024-03-09T18:39:14.527129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-09T18:39:14.527137Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/jj.mp3" added="2024-03-13T15:56:03.809162Z" modified="2024-03-13T15:56:03.809196Z" visited="2024-03-13T15:56:03.809166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-13T15:56:03.809179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/pf-videotext-pro-regular.zip" added="2024-03-14T06:03:25.127055Z" modified="2024-03-14T06:03:25.127079Z" visited="2024-03-14T06:03:25.127060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-14T06:03:25.127069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/repo/ciosyam.xyz/index.html" added="2024-03-14T08:51:39.149638Z" modified="2024-03-14T08:51:39.149648Z" visited="2024-03-14T08:51:39.149640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-14T08:51:39.149643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/sync/Untitled-4.png" added="2024-03-14T12:21:03.840996Z" modified="2024-03-14T12:21:03.841003Z" visited="2024-03-14T12:21:03.840997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-14T12:21:03.841000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/zh.jpg" added="2024-03-14T12:21:25.964294Z" modified="2024-03-14T12:33:05.321309Z" visited="2024-03-14T12:21:25.964297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-14T12:33:05.321300Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cio/Downloads/zh.png" added="2024-03-14T12:33:31.352476Z" modified="2024-03-14T12:33:31.352511Z" visited="2024-03-14T12:33:31.352480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="thorium-browser" exec="&apos;thorium-browser %u&apos;" modified="2024-03-14T12:33:31.352493Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
