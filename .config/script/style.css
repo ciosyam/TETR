@@ -7,8 +7,8 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 30px;
-	background: #011 ;
-	color: #eee;
+	background: #000 ;
+	color: #f8f8f8;
 	border-style: solid;
 	border-width: 5px;
 	border-color: #555;
@@ -25,15 +25,15 @@ h1,h2,h3,h4 {
 h1 {
 	font-size: 48px;
 	text-shadow: 3px 0 black, 3px 3px black, 0 3px black;
-	color: #00ccff ;
+	color: #0d0efe ;
 	}
 
 h2 {
-	color: #00bbdd ;
+	color: #0d0efe ;
 }
 
 h3 {
-	color: #00aabb ;
+	color: #0d0efe ;
 }
 
 a { color: lightblue; }
