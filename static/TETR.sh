@@ -6,7 +6,7 @@
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/ciosyam/dotfiles.git"
+dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
 progsfile="https://raw.githubusercontent.com/ciosyam/TETR/main/static/progs.csv"
 aurhelper="yay"
 repobranch="master"
