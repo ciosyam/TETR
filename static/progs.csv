@@ -6,7 +6,7 @@
 ,ttf-meslo-nerd,"monospace font for browser."
 ,ttf-terminus-nerd,"sharp, highly readable font for interface and terminal"
 ,ttf-font-awesome,"provides extended glyph support."
-A,lf-git,"is an extensive terminal file manager that everyone likes."
+,lf,"is an extensive terminal file manager that everyone likes."
 ,ueberzug,"enables previews in the lf file manager."
 ,bc,"is a mathematics language used for the dropdown calculator."
 ,picom,"compositor to avoid tearing"
