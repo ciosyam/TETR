@@ -70,6 +70,7 @@ G,https://github.com/ciosyam/dmenu.git,"runs commands and provides a UI for sele
 G,https://github.com/ciosyam/st.git,"is my custom build of suckless's terminal emulator."
 G,https://github.com/ciosyam/dwm.git,"is the window manager."
 A,mutt-wizard-git,"is a light-weight terminal-based email system."
+A,bootstrap-studio,"webdev thingy"
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
 ,socat,"is a utility which establishes two byte streams and transfers data between them."
 ,moreutils,"is a collection of useful unix tools."
